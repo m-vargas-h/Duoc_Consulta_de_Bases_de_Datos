@@ -13,9 +13,9 @@ En esta experiencia, el estudiante podrá construir sentencias para obtener info
 
 | Semana   | Entrega    | Tipo             | Descripción                                  |
 |----------|------------|------------------|----------------------------------------------|
-| Semana 1 | 27/10/2025 | Formativa        | Relacionando conceptos básicos de la Consulta de Bases de Datos en SQL. |
-| Semana 2 | 03/11/2025 | Formativa        | Creando consultas utilizando funciones SQL.  |
-| Semana 3 | 10/11/2025 | Sumativa (30%)   | Aplicando funciones de agrupación.           |
+|    1     | 27/10/2025 | Formativa        | Relacionando conceptos básicos de la Consulta de Bases de Datos en SQL. |
+|    2     | 03/11/2025 | Formativa        | Creando consultas utilizando funciones SQL.  |
+|    3     | 10/11/2025 | Sumativa (30%)   | Aplicando funciones de agrupación.           |
 
 ### 📂 Experiencia 2: Construyendo sentencias complejas de trabajo con datos
 En esta experiencia, el estudiante podrá construir sentencias para manipular datos en tablas de datos, aplicando lenguaje SQL, controlando y manejando el acceso de los datos de las bases. Aprendizaje esperado:
@@ -23,9 +23,9 @@ En esta experiencia, el estudiante podrá construir sentencias para manipular da
 
 | Semana   | Entrega    | Tipo             | Descripción                                  |
 |----------|------------|------------------|----------------------------------------------|
-| Semana 4 | 17/11/2025 | Formativa        | Desarrollando JOINS en las tablas.           |
-| Semana 5 | 24/11/2025 | Formativa        | Utilizando subconsultas para resolver requerimientos. |
-| Semana 6 | 01/12/2025 | Sumativa (35%)   | Insertando, eliminando y manipulando datos.  |
+|    4     | 17/11/2025 | Formativa        | Desarrollando JOINS en las tablas.           |
+|    5     | 24/11/2025 | Formativa        | Utilizando subconsultas para resolver requerimientos. |
+|    6     | 01/12/2025 | Sumativa (35%)   | Insertando, eliminando y manipulando datos.  |
 
 ### 📂 Experiencia 3: Gestionando objetos de la base de datos
 En esta experiencia, el estudiante podrá administrar bases de datos a partir del control de accesos a datos y objetos, y considerando la gestión de usuarios y privilegios del sistema, para disponibilizar bases de datos según estándares de seguridad esperados. Aprendizaje esperado:
@@ -33,11 +33,11 @@ En esta experiencia, el estudiante podrá administrar bases de datos a partir de
 
 | Semana   | Entrega    | Tipo             | Descripción                                  |
 |----------|------------|------------------|----------------------------------------------|
-| Semana 7 | 08/12/2025 | Formativa        | Optimizando consultas SQL.                   |
-| Semana 8 | 15/12/2025 | Sumativa (35%)   | Aplicando control de acceso a bases de datos.|
+|    7     | 08/12/2025 | Formativa        | Optimizando consultas SQL.                   |
+|    8     | 15/12/2025 | Sumativa (35%)   | Aplicando control de acceso a bases de datos.|
 
 ### Evaluación final transversal
 
 | Semana   | Entrega    | Descripción                                  |
 |----------|------------|----------------------------------------------|
-| Semana 9 | 21/12/2025 | Evaluación Final Transversal
+|    9     | 21/12/2025 | Evaluación Final Transversal
