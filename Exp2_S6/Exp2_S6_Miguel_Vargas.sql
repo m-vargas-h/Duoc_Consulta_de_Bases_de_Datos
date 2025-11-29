@@ -110,10 +110,10 @@ CASO 3: MODIFICACIÓN DE HONORARIOS
 ============================================================*/
 -- 1. Reporte ANTES de la actualización
 SELECT 
-    ROUND(SUM(a.honorario)) AS HONORARIO,
-    p.id_profesional AS ID_PROFESIONAL,
-    p.numrun_prof AS NUMRUN_PROF,
-    p.sueldo AS SUELDO
+    ROUND(SUM(a.honorario)) AS "HONORARIO",
+    p.id_profesional        AS "ID_PROFESIONAL",
+    p.numrun_prof           AS "NUMRUN_PROF",
+    p.sueldo                AS "SUELDO"
 
 FROM profesional p
 
@@ -156,10 +156,10 @@ COMMIT;
 
 -- 4. Reporte DESPUÉS de la actualización
 SELECT 
-    ROUND(SUM(a.honorario)) AS HONORARIO,
-    p.id_profesional AS ID_PROFESIONAL,
-    p.numrun_prof AS NUMRUN_PROF,
-    p.sueldo AS SUELDO
+    ROUND(SUM(a.honorario)) AS "HONORARIO",
+    p.id_profesional        AS "ID_PROFESIONAL",
+    p.numrun_prof           AS "NUMRUN_PROF",
+    p.sueldo                AS "SUELDO"
 
 FROM profesional p
 
